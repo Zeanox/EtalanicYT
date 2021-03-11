@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working on plugins and server development!
 - 🌱 I’m currently learning Java,SH,PHP,Linux and Docker
-- 📫 How to reach me: Via email at:etalanic313@gmail.com
+- 📫 How to reach me: Via email at:admin@oceanmc.club
 - ⚡ Fun fact: I like to sleep
