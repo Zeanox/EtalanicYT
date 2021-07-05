@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**EtalanicYT/EtalanicYT** is a ✨ _special_ ✨ repository
+**Zeanox/Zeanox** is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently working on plugins and server development!
 - 🌱 I’m currently learning Java,SH,PHP,Linux and Docker
