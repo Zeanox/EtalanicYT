@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working on plugins and server development!
 - 🌱 I’m currently learning Java,SH,PHP,Linux and Docker
-- 📫 How to reach me: Via email at:admin@oceanmc.club
+- 📫 How to reach me: Via email at:admin@zeanox.com
 - ⚡ Fun fact: I like to sleep
